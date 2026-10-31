@@ -18,4 +18,4 @@ Open `index.html` in a browser.
 - Pages are switched with URL hashes (`#admission`, `#cse`, `#placement`, `#contact`).
 
 ## Live demo
-Add your GitHub Pages link here after publishing.
+https://kanwarjotsingh28-prog.github.io/kcet-redesign/
